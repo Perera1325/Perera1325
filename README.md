@@ -113,18 +113,41 @@ Here are some ideas to get you started:
 
 ## 🚀 Technology Interaction Level
 
-Java               ██████████ 100%
-JavaScript         ██████████ 100%
-Python             ██████████ 100%
-C / C++            ████████░░ 80%
-C#                 ███████░░░ 70%
-React / Next.js    ██████████ 100%
-SQL / PostgreSQL   █████████░░ 90%
-IoT / Arduino      ██████████ 100%
-Embedded Systems   ██████████ 100%
-AI / ML / DL       █████████░░ 90%
-Cyber Security     █████████░░ 90%
-Smart Grid         ███████░░░ 70%
+**Java**
+![Java](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**JavaScript**
+![JavaScript](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**Python**
+![Python](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**C / C++**
+![C++](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**C#**
+![CSharp](https://img.shields.io/badge/80%25-f1c40f?style=for-the-badge)
+
+**React / Next.js**
+![React](https://img.shields.io/badge/70%25-f1c40f?style=for-the-badge)
+
+**SQL / PostgreSQL**
+![SQL](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**IoT / Arduino**
+![IoT](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
+
+**Embedded Systems**
+![Embedded](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**AI / ML / DL**
+![AI](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
+
+**Cyber Security**
+![Cyber](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
+
+**Smart Grid**
+![SmartGrid](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
 
 
 
