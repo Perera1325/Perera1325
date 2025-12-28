@@ -101,12 +101,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=Perera1325&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perera1325&theme=tokyonight)      
 
 
 ---
