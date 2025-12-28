@@ -111,24 +111,21 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Skill Interaction Levels
+## 🚀 Technology Interaction Level
 
-![Java](https://img.shields.io/badge/Java-Active-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Active-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-Active-brightgreen)
-![C](https://img.shields.io/badge/C-Regular%20Use-yellow)
-![C++](https://img.shields.io/badge/C++-Regular%20Use-yellow)
-![C#](https://img.shields.io/badge/C%23-Regular%20Use-yellow)
-![React](https://img.shields.io/badge/React-Active-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-Active-brightgreen)
-![SQL](https://img.shields.io/badge/SQL-Active-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Active-brightgreen)
-![IoT](https://img.shields.io/badge/IoT-Hands%20On-brightgreen)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-Active-brightgreen)
-![AI](https://img.shields.io/badge/AI/ML/DL-Active-brightgreen)
-![Cyber_Security](https://img.shields.io/badge/Cyber_Security-Active-brightgreen)
-![Smart_Grid](https://img.shields.io/badge/Smart_Grid-Learning-blue)
+Java               ██████████ 100%
+JavaScript         ██████████ 100%
+Python             ██████████ 100%
+C / C++            ████████░░ 80%
+C#                 ███████░░░ 70%
+React / Next.js    ██████████ 100%
+SQL / PostgreSQL   █████████░░ 90%
+IoT / Arduino      ██████████ 100%
+Embedded Systems   ██████████ 100%
+AI / ML / DL       █████████░░ 90%
+Cyber Security     █████████░░ 90%
+Smart Grid         ███████░░░ 70%
+
 
 
 ---
