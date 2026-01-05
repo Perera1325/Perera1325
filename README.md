@@ -1,167 +1,169 @@
-## Hi there 👋
-
-<!--
-**Perera1325/Perera1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 👋 Hey, I’m Vinod Perera  
-
-## 🚀 Multi-Domain Engineer | Cyber Security | Embedded Systems | AI & ML | Full-Stack | Electrical & Electronics
-
-🌍 Building future-ready solutions by bridging **Software + Hardware + Intelligence + Energy Systems**
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Vinod Perera</h1>
+<h3 align="center">
+System Engineer ✈️ | Backend & API Development | Electrical & Electronics Engineering | Open Source | Exploring Machine Learning
+</h3>
 
 ---
 
-## 🔥 About Me
-- 🎓 Computer Science + Electrical & Electronic Engineering
-- 🛡️ Cyber Security Enthusiast | SOC Analysis
-- ⚙️ Embedded Systems + Microcontrollers + IoT
-- 🧠 AI / Machine Learning / Deep Learning / Model Building
-- ⚡ Smart Grid | Renewable Energy | Power Technology
-- 💻 Passionate Full-Stack Developer
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=System+Engineer+in+Aviation;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Open+Source+Contributor;Learning+Machine+Learning+%26+Cyber+Security;Building+Every+Day" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ✈️ **System Engineer at Bandaranaike International Airport (BIA)**
+- ⚙️ Background in **Electrical & Electronics Engineering**
+- 💻 Strong interest in **backend systems, APIs, and secure software**
+- 🔐 Exploring the intersection of **cyber security, smart grids, and software**
+- 🌱 Continuously learning through **projects, experiments, and open source**
 
 ---
 
-### 🌐 Web / Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+## 🛠️ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+- **Java** – Backend services, REST APIs  
+- **JavaScript** – Node.js, Express, tooling  
+- **Python** – Machine learning, scripting, data analysis  
+- **C / C++** – Embedded systems & low-level programming  
 
 ---
 
-### 🧠 AI / Machine Learning / Data
-![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?logo=openai)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E2DE2)
-![Model Training](https://img.shields.io/badge/Model_Training-1E90FF)
+## ⚙️ Backend, APIs & Software Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,git,github,docker,vscode" />
+</p>
+
+- RESTful API design & testing  
+- Secure API concepts (authentication & authorization)  
+- Git & GitHub workflows  
+- Open-source collaboration  
 
 ---
 
-### 🛡️ Cyber Security / SOC
-![SOC](https://img.shields.io/badge/SOC_Analysis-111827)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-0F766E)
-![Networking](https://img.shields.io/badge/Networking-2563EB)
+## ⚡ Electrical & Electronics Engineering Tools
+
+### 🔌 Engineering & Simulation
+<p>
+  <img src="https://skillicons.dev/icons?i=matlab" />
+</p>
+
+- **MATLAB / Simulink** – Power systems, signal processing, simulations  
+- System modeling & analysis  
+
+### 🤖 Robotics & Embedded Systems
+- **Microcontrollers** (Arduino-level prototyping concepts)
+- Sensors, actuators & control logic
+- Robotics fundamentals & system integration  
+
+### 🧩 PCB & Hardware Design
+- **KiCad** – Schematic design & PCB layout  
+- Component selection & circuit documentation  
 
 ---
 
-### ⚙️ Embedded Systems / Electronics
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FF0000)
-![IoT](https://img.shields.io/badge/IoT-00A8E8)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-7C3AED)
+## 🧠 Machine Learning (Learning & Applied)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+- Supervised & unsupervised learning basics  
+- ML for **security, anomaly detection & signal analysis**  
+- Practical experimentation over theory-heavy claims  
 
 ---
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+## 🏆 GitHub Achievements
+
+- 🦈 **Pull Shark** – Merged pull requests  
+- ⚡ **Quickdraw** – Fast issue resolution  
+
+*(More achievements unlocking through consistent contributions)*
 
 ---
 
-### ⚡ Smart Energy / Future Tech
-- Smart Grid Systems
-- Renewable Energy Tech
-- EV Charging Solutions
-- Power Engineering Integration
+## 🔥 Daily GitHub Streak
 
----
-
-## 📌 Featured Domains
-🔹 Cyber Security & SOC  
-🔹 Embedded Systems & IoT  
-🔹 AI + ML + Deep Learning  
-🔹 Electrical & Electronic Engineering  
-🔹 Smart Grid & Future Energy Systems  
-🔹 Full Stack Web Development  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perera1325&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perera1325&theme=tokyonight)      
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-
----
-
-## 🚀 Technology Interaction Level
-
-**Java**
-![Java](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**JavaScript**
-![JavaScript](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**Python**
-![Python](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**C / C++**
-![C++](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**C#**
-![CSharp](https://img.shields.io/badge/80%25-f1c40f?style=for-the-badge)
-
-**React / Next.js**
-![React](https://img.shields.io/badge/70%25-f1c40f?style=for-the-badge)
-
-**SQL / PostgreSQL**
-![SQL](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**IoT / Arduino**
-![IoT](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
-
-**Embedded Systems**
-![Embedded](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**AI / ML / DL**
-![AI](https://img.shields.io/badge/100%25-2ecc71?style=for-the-badge)
-
-**Cyber Security**
-![Cyber](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
-
-**Smart Grid**
-![SmartGrid](https://img.shields.io/badge/90%25-3498db?style=for-the-badge)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌟 2026 Vision
-- Build advanced Embedded & Smart Systems
-- Work with AI + Power Systems
-- Develop high-impact real-world engineering solutions
+## 🚀 Featured Project: Smart Grid Cyber Attack Detection System
+
+### 🔍 Project Overview
+A research-driven project focused on **detecting and analyzing cyber attacks in smart grid environments**, combining **electrical power systems knowledge with cyber security and machine learning**.
+
+### ⚠️ Problem
+Modern smart grids are vulnerable to:
+- False data injection attacks  
+- Load manipulation  
+- Communication-level cyber intrusions  
+
+These attacks can:
+- Disrupt power stability  
+- Cause incorrect control decisions  
+- Lead to large-scale outages  
+
+### 💡 Solution Approach
+- Simulated **smart grid operational data**
+- Extracted features from power & communication signals
+- Applied **machine learning models** to detect anomalies
+- Evaluated performance using metrics like accuracy & reliability
+
+### 🧠 Technologies Used
+- Python (data processing & ML)
+- MATLAB (power system simulation & analysis)
+- Machine learning models for anomaly detection
+- Cyber-security concepts applied to energy systems
+
+### 🎯 Outcome
+- Demonstrated feasibility of **AI-assisted cyber attack detection**
+- Bridged **electrical engineering + cyber security + software**
+- Strong foundation for future research & real-world deployment
 
 ---
 
-## 📬 Contact
-📧 Email — bamunuge2002@gmail.com  
+## 🌍 Open Source & Learning Journey
 
-⭐ Stay tuned — Bigger projects loading…
+- ✅ Active open-source contributor  
+- 🛠 Learning through real pull requests & issue tracking  
+- 📈 Maintaining consistent daily GitHub activity  
 
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://github.com/Perera1325">
+    <img src="https://img.shields.io/badge/GitHub-Perera1325-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to explore and star my repositories!
+</p>
