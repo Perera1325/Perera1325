@@ -100,14 +100,12 @@ System Engineer ✈️ | Backend & API Development | Electrical & Electronics En
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Daily GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perera1325&theme=dark)
 
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
