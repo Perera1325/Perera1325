@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinod Perera</h1>
 
+![Stats](github-stats.png)
+
 <h3 align="center">
 ✈️ System Engineer | Backend & API Developer | Electrical & Electronics Engineer | GenAI + Cyber Security | Open Source Enthusiast
 </h3>
