@@ -4,7 +4,6 @@
 
 🎓 **Dual-Degree Undergraduate** | Computer Science & Electrical & Electronic Engineering
 ✈️ **Intern System Engineer — Bandaranaike International Airport**
-🎯 **Aspiring System Engineer @ WSO2**
 
 ---
 
