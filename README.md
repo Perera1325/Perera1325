@@ -1,148 +1,219 @@
-<h1 align="center">Hi 👋, I'm Vinod Perera</h1>
+# 👋 Hi, I'm Vinod Perera
 
-![Stats](github-stats.png)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineer+Enthusiast;WSO2+Technology+Learner;AI+%7C+DevOps+%7C+Embedded+Systems;Dual+Degree+Engineer&center=true&width=550&height=45">
 
-<h3 align="center">
-✈️ System Engineer | Backend & API Developer | Electrical & Electronics Engineer | GenAI + Cyber Security | Open Source Enthusiast
-</h3>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=System+Engineer+in+Aviation+%E2%9C%88%EF%B8%8F;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Automation+Engineering+%7C+DevOps;Cyber+Security+%7C+SOC+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Neural+Networks;GenAI+Architecture+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor+%7C+Building+Every+Day+%F0%9F%94%A5" />
-</p>
+🎓 **Dual-Degree Undergraduate** | Computer Science & Electrical & Electronic Engineering
+✈️ **Intern System Engineer — Bandaranaike International Airport**
+🎯 **Aspiring System Engineer @ WSO2**
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D2FF,100:00FFA3&height=150&section=header&text=Building%20Secure%20%26%20Intelligent%20Systems&fontSize=30&fontColor=ffffff&animation=twinkling" />
-</p>
+# 🚀 About Me
+
+I am a multidisciplinary engineering undergraduate passionate about building **scalable intelligent systems** that integrate:
+
+⚡ Software Engineering
+⚡ Electrical & Electronic Systems
+⚡ AI & Machine Learning
+⚡ Cloud & DevOps Infrastructure
+⚡ API & Integration Platforms
+
+I enjoy designing **real-world production-style architectures** combining hardware and software.
+
+My career goal is to become a **System Engineer / Platform Engineer at WSO2** and contribute to enterprise middleware technologies.
 
 ---
 
-## 👨‍💻 About Me
+# 🎓 Education
 
-- ✈️ **System Engineer at Bandaranaike International Airport (BIA)**
-- 🎓 **Dual Degree Undergraduate**: **Computer Science + Electrical & Electronic Engineering**
-- 💻 Interested in **backend systems, secure APIs, automation**
-- 🔐 Exploring **Cyber Security + Smart Grid Systems**
-- 🧠 Learning **ML / DL / GenAI** through practical projects
-- 🌍 **Open Source Enthusiast**
+🎓 **BSc (Hons) Computer Science** — SLIIT
+🎓 **BEng (Hons) Electrical & Electronic Engineering** — University of Hertfordshire
 
 ---
 
-## 🛠️ Programming Languages
+# 💼 Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,ts,php,go,bash" />
-</p>
+✈️ **Intern System Engineer**
+Bandaranaike International Airport — Sri Lanka
 
-✅ **Added:**
-- **Ballerina** (WSO2 ecosystem)
-- Automation + scripting languages
+Experience Areas:
 
----
-
-## ⚙️ Backend, APIs & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,postman,graphql,git,github,docker,kubernetes,linux,vscode" />
-</p>
-
-- REST APIs + GraphQL APIs
-- Authentication & Authorization (**OAuth2 / JWT**)
-- Secure API Design + rate limits + logging
+* Enterprise System Infrastructure
+* Monitoring & Automation
+* Networking Fundamentals
+* Security Concepts
+* Engineering Operations
 
 ---
 
-## 🤖 Automation Engineering & Testing
+# 🧠 Technical Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,githubactions,docker" />
-</p>
+## 👨‍💻 Programming
 
-- Selenium automation testing
-- CI/CD pipelines (GitHub Actions)
-- DevOps + scripting automation
+Java • Python • JavaScript • C++ • MATLAB • SQL
 
----
+## ⚡ Engineering & Embedded
 
-## 🔐 Cyber Security + SOC Systems
+Arduino • Embedded Systems • SimulationKit • EV Systems • Smart Energy
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+## ☁️ DevOps & Cloud
 
-- OWASP Top 10 basics
-- API attack detection patterns
-- Security monitoring + anomaly detection
-- SOC dashboard ideas (logs + alerts)
+Docker • Kubernetes • GitHub Actions • CI/CD • Linux • Nginx
 
----
+## 🔗 WSO2 Ecosystem
 
-## 🧠 Machine Learning / Deep Learning / GenAI
+WSO2 API Manager
+WSO2 Micro Integrator
+WSO2 Identity Server
+WSO2 Integration Studio
+API Gateway Architecture
+Enterprise Integration Patterns
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+## 🤖 AI / ML
 
-- ML models for anomaly detection
-- Deep learning basics (**CNN / RNN / Transformers concepts**)
-- GenAI architecture: **RAG + agents + prompt engineering**
+Machine Learning
+Deep Learning
+Neural Networks
+Data Analysis
+AI System Integration
 
----
+## 🔐 Cybersecurity
 
-## ⚡ Electrical & Electronics Engineering Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=matlab,arduino" />
-</p>
-
-✅ Also using:
-- **KiCad** – PCB & schematic design
-- **AutoCAD** – engineering drawings
-- **ROS** – robotics fundamentals
+Secure API Design
+Authentication & Authorization
+Threat Detection Systems
+Automation Testing (Selenium)
 
 ---
 
-## 🔥 Daily GitHub Streak
+# 🔥 Technology Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Perera1325&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=radical&hide_border=true" />
-</p>
+![WSO2](https://img.shields.io/badge/WSO2-Integration-orange)
+![DevOps](https://img.shields.io/badge/DevOps-Docker-blue)
+![AI](https://img.shields.io/badge/AI-MachineLearning-green)
+![Cloud](https://img.shields.io/badge/Cloud-Kubernetes-blueviolet)
+![Engineering](https://img.shields.io/badge/Engineering-Embedded-red)
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏗 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Perera1325&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+## 🤖 AI-Powered Brute Force Detection System
 
----
+* Machine learning login attack detection
+* Real-time monitoring dashboard
+* Dockerized architecture
+* CI/CD integration
 
-## 🌍 Open Source & Learning Journey
-
-- ✅ Active open-source contributor
-- 🛠 Learning through PRs, issue fixing, and documentation contributions
-- 📈 Maintaining consistent daily GitHub progress
+Tech: Python, ML, Flask, Docker
 
 ---
 
-## 🤝 Let’s Connect
+## 🔗 Intelligent API Gateway (WSO2 Inspired)
 
-<p>
-  <a href="https://github.com/Perera1325">
-    <img src="https://img.shields.io/badge/GitHub-Perera1325-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+* API orchestration architecture
+* Microservices integration concepts
+* Secure gateway implementation
+
+Tech: Java, WSO2, GraphQL
+
+---
+
+## ⚡ Smart EV Charging & Energy System
+
+* Hybrid solar EV charging prototype
+* Embedded controller integration
+* Sustainable energy optimization
+
+Tech: Arduino, Power Electronics, Simulation
+
+---
+
+## 🧠 Neural Network From Scratch
+
+* Implemented neural network without frameworks
+* Forward & backpropagation logic
+
+Tech: Python, NumPy
+
+---
+
+# 🖼 Project Showcase
+
+You can add images inside `/assets` folder.
+
+Example:
+
+<img src="assets/ev_project.jpg" width="400"/>
+<img src="assets/dashboard.gif" width="400"/>
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perera1325\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Perera1325\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Perera1325\&theme=tokyo-night\&hide_border=true)
+
+---
+
+# 🧩 Engineering Philosophy
+
+> Engineering is not just writing code — it is designing scalable systems that solve real-world problems.
+
+I believe the strongest engineers understand both **software and hardware layers**.
+
+---
+
+# 🎯 Career Objective
+
+My objective is to work at **WSO2** as a System Engineer contributing to:
+
+* API Management Platforms
+* Integration Systems
+* Cloud-Native Middleware
+* Distributed Architectures
+* Intelligent Automation
+
+---
+
+# 🧠 Currently Learning
+
+* Advanced Kubernetes
+* WSO2 Enterprise Architecture
+* Cloud Native Security
+* AI-Driven Systems
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [bamunuge2002@gmail.com](mailto:bamunuge2002@gmail.com)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/your-link
+
+🐙 GitHub:
+https://github.com/Perera1325
+
+---
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Perera1325\&color=blue)
+
+---
+
+# ⭐ Support
+
+If you like my work, consider giving a ⭐ to repositories.
 
 ---
