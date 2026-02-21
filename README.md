@@ -1,218 +1,214 @@
-# 👋 Hi, I'm Vinod Perera
+<h1 align="center">Hi 👋, I'm Vinod Perera</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=System+Engineer+Enthusiast;WSO2+Technology+Learner;AI+%7C+DevOps+%7C+Embedded+Systems;Dual+Degree+Engineer&center=true&width=550&height=45">
+<h3 align="center">
+System Engineer ✈️ | Backend & API Developer | Electrical & Electronics Engineer | AI • Cyber Security • DevOps
+</h3>
 
-🎓 **Dual-Degree Undergraduate** | Computer Science & Electrical & Electronic Engineering
-✈️ **Intern System Engineer — Bandaranaike International Airport**
-
----
-
-# 🚀 About Me
-
-I am a multidisciplinary engineering undergraduate passionate about building **scalable intelligent systems** that integrate:
-
-⚡ Software Engineering
-⚡ Electrical & Electronic Systems
-⚡ AI & Machine Learning
-⚡ Cloud & DevOps Infrastructure
-⚡ API & Integration Platforms
-
-I enjoy designing **real-world production-style architectures** combining hardware and software.
-
-My career goal is to become a **System Engineer / Platform Engineer at WSO2** and contribute to enterprise middleware technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=System+Engineer+in+Aviation+%E2%9C%88%EF%B8%8F;WSO2+Technology+Enthusiast;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Cloud+%26+DevOps+Engineering;Cyber+Security+%7C+SOC+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Neural+Networks;GenAI+Architecture+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor+%F0%9F%94%A5" />
+</p>
 
 ---
 
-# 🎓 Education
-
-🎓 **BSc (Hons) Computer Science** — SLIIT
-🎓 **BEng (Hons) Electrical & Electronic Engineering** — University of Hertfordshire
-
----
-
-# 💼 Experience
-
-✈️ **Intern System Engineer**
-Bandaranaike International Airport — Sri Lanka
-
-Experience Areas:
-
-* Enterprise System Infrastructure
-* Monitoring & Automation
-* Networking Fundamentals
-* Security Concepts
-* Engineering Operations
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Building%20Secure%20%26%20Intelligent%20Systems&fontSize=32&fontColor=ffffff&animation=twinkling" />
+</p>
 
 ---
 
-# 🧠 Technical Skills
+# 👨‍💻 About Me
 
-## 👨‍💻 Programming
+* ✈️ **Intern System Engineer — Bandaranaike International Airport (BIA)**
+* 🎓 **Dual Degree Undergraduate**
+  **Computer Science — SLIIT**
+  **Electrical & Electronic Engineering — University of Hertfordshire**
+* 🎯 Aspiring **System Engineer @ WSO2**
+* 💻 Passionate about **Backend Systems, APIs, Distributed Architectures**
+* 🔐 Exploring **Cyber Security + Secure Integration Platforms**
+* 🤖 Interested in **AI / ML / GenAI Engineering**
+* 🌍 Active **Open Source Contributor**
 
-Java • Python • JavaScript • C++ • MATLAB • SQL
-
-## ⚡ Engineering & Embedded
-
-Arduino • Embedded Systems • SimulationKit • EV Systems • Smart Energy
-
-## ☁️ DevOps & Cloud
-
-Docker • Kubernetes • GitHub Actions • CI/CD • Linux • Nginx
-
-## 🔗 WSO2 Ecosystem
-
-WSO2 API Manager
-WSO2 Micro Integrator
-WSO2 Identity Server
-WSO2 Integration Studio
-API Gateway Architecture
-Enterprise Integration Patterns
-
-## 🤖 AI / ML
-
-Machine Learning
-Deep Learning
-Neural Networks
-Data Analysis
-AI System Integration
-
-## 🔐 Cybersecurity
-
-Secure API Design
-Authentication & Authorization
-Threat Detection Systems
-Automation Testing (Selenium)
+I specialize in combining **software + infrastructure + electronics** to build real-world intelligent systems.
 
 ---
 
-# 🔥 Technology Focus
+# 🚀 WSO2 Technology Stack
 
-![WSO2](https://img.shields.io/badge/WSO2-Integration-orange)
-![DevOps](https://img.shields.io/badge/DevOps-Docker-blue)
-![AI](https://img.shields.io/badge/AI-MachineLearning-green)
-![Cloud](https://img.shields.io/badge/Cloud-Kubernetes-blueviolet)
-![Engineering](https://img.shields.io/badge/Engineering-Embedded-red)
+<p align="center">
+  <img src="https://img.shields.io/badge/WSO2-API_Manager-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WSO2-Micro_Integrator-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WSO2-Identity_Server-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WSO2-Integration_Studio-orange?style=for-the-badge" />
+</p>
 
----
-
-# 🏗 Featured Projects
-
-## 🤖 AI-Powered Brute Force Detection System
-
-* Machine learning login attack detection
-* Real-time monitoring dashboard
-* Dockerized architecture
-* CI/CD integration
-
-Tech: Python, ML, Flask, Docker
+* API Gateway Architecture
+* Enterprise Integration Patterns
+* OAuth2 / JWT Security
+* Microservices Integration
+* API Management Concepts
 
 ---
 
-## 🔗 Intelligent API Gateway (WSO2 Inspired)
+# 🛠️ Programming Languages
 
-* API orchestration architecture
-* Microservices integration concepts
-* Secure gateway implementation
-
-Tech: Java, WSO2, GraphQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,ts,php,go,bash" />
+</p>
 
 ---
 
-## ⚡ Smart EV Charging & Energy System
+# ⚙️ Backend, APIs & DevOps
 
-* Hybrid solar EV charging prototype
-* Embedded controller integration
-* Sustainable energy optimization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,graphql,postman,docker,kubernetes,git,github,linux,nginx" />
+</p>
 
-Tech: Arduino, Power Electronics, Simulation
-
----
-
-## 🧠 Neural Network From Scratch
-
-* Implemented neural network without frameworks
-* Forward & backpropagation logic
-
-Tech: Python, NumPy
+* REST APIs + GraphQL APIs
+* Authentication & Authorization (OAuth2 / JWT)
+* Secure API Design
+* Microservices Architecture
+* Containerized Deployment
 
 ---
 
-# 🖼 Project Showcase
+# 🤖 Automation Engineering & CI/CD
 
-You can add images inside `/assets` folder.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,githubactions,docker" />
+</p>
 
-Example:
+* Automation testing (Selenium)
+* CI/CD pipelines
+* Infrastructure automation
 
-<img src="assets/ev_project.jpg" width="400"/>
-<img src="assets/dashboard.gif" width="400"/>
+---
+
+# 🔐 Cyber Security & SOC Systems
+
+* OWASP Top 10 concepts
+* API attack detection
+* Authentication security
+* Security monitoring dashboards
+* Threat detection automation
+
+---
+
+# 🧠 AI / Machine Learning / Neural Networks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+* Neural Networks from scratch
+* ML anomaly detection systems
+* Deep learning fundamentals
+* GenAI architecture (RAG + agents)
+
+---
+
+# 🧬 Neural Network Visualization
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+</p>
+
+---
+
+# ⚡ Electrical & Electronics Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,arduino" />
+</p>
+
+Also working with:
+
+* KiCad — PCB Design
+* AutoCAD — Engineering Drawings
+* Embedded Systems
+* Smart EV & Energy Systems
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perera1325&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Perera1325&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perera1325\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Perera1325\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Achievements
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Perera1325\&theme=tokyo-night\&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Perera1325&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
 # 🧩 Engineering Philosophy
 
-> Engineering is not just writing code — it is designing scalable systems that solve real-world problems.
+> Engineering is about designing scalable, secure, and intelligent systems that solve real-world problems.
 
-I believe the strongest engineers understand both **software and hardware layers**.
+My strength is combining:
+
+Software + Infrastructure + Electronics + AI
 
 ---
 
 # 🎯 Career Objective
 
-My objective is to work at **WSO2** as a System Engineer contributing to:
+I aim to contribute to **WSO2** in areas of:
 
 * API Management Platforms
 * Integration Systems
-* Cloud-Native Middleware
+* Cloud Native Middleware
 * Distributed Architectures
-* Intelligent Automation
+* Intelligent Automation Systems
 
 ---
 
-# 🧠 Currently Learning
+# 🌍 Open Source Journey
 
-* Advanced Kubernetes
-* WSO2 Enterprise Architecture
-* Cloud Native Security
-* AI-Driven Systems
-
----
-
-# 📫 Connect With Me
-
-📧 Email: [bamunuge2002@gmail.com](mailto:bamunuge2002@gmail.com)
-
-💼 LinkedIn:
-https://www.linkedin.com/in/your-link
-
-🐙 GitHub:
-https://github.com/Perera1325
+* Active contributor to open source projects
+* Learning through real production systems
+* Continuous daily GitHub improvement
 
 ---
 
-# 👀 Profile Views
+# 🤝 Connect With Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Perera1325\&color=blue)
+<p align="center">
+  <a href="mailto:bamunuge2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/Perera1325">
+    <img src="https://img.shields.io/badge/GitHub-Perera1325-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-# ⭐ Support
-
-If you like my work, consider giving a ⭐ to repositories.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Perera1325&color=blue&style=for-the-badge"/>
+</p>
 
 ---
+
+⭐ If you like my work, consider giving a star to repositories!
