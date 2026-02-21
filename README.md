@@ -5,13 +5,11 @@ System Engineer ✈️ | Backend & API Developer | Electrical & Electronics Engi
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=System+Engineer+in+Aviation+%E2%9C%88%EF%B8%8F;WSO2+Technology+Enthusiast;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Cloud+%26+DevOps+Engineering;Cyber+Security+%7C+SOC+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Neural+Networks;GenAI+Architecture+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=System+Engineer+in+Aviation+✈️;WSO2+Technology+Enthusiast;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Cloud+%26+DevOps+Engineering;Cyber+Security+%7C+SOC+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Neural+Networks;GenAI+Architecture+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor+🔥" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=Building%20Secure%20%26%20Intelligent%20Systems&fontSize=32&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=WSO2%20Engineer%20Journey&fontSize=32&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
@@ -20,15 +18,16 @@ System Engineer ✈️ | Backend & API Developer | Electrical & Electronics Engi
 
 * ✈️ **Intern System Engineer — Bandaranaike International Airport (BIA)**
 * 🎓 **Dual Degree Undergraduate**
-  **Computer Science — SLIIT**
-  **Electrical & Electronic Engineering — University of Hertfordshire**
+
+  * Computer Science — SLIIT
+  * Electrical & Electronic Engineering — University of Hertfordshire
 * 🎯 Aspiring **System Engineer @ WSO2**
 * 💻 Passionate about **Backend Systems, APIs, Distributed Architectures**
 * 🔐 Exploring **Cyber Security + Secure Integration Platforms**
 * 🤖 Interested in **AI / ML / GenAI Engineering**
 * 🌍 Active **Open Source Contributor**
 
-I specialize in combining **software + infrastructure + electronics** to build real-world intelligent systems.
+I specialize in combining **Software + Infrastructure + Electronics** to build intelligent real-world systems.
 
 ---
 
@@ -71,13 +70,13 @@ I specialize in combining **software + infrastructure + electronics** to build r
 
 ---
 
-# 🤖 Automation Engineering & CI/CD
+# 🤖 Automation & CI/CD
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium,githubactions,docker" />
 </p>
 
-* Automation testing (Selenium)
+* Selenium automation testing
 * CI/CD pipelines
 * Infrastructure automation
 
@@ -87,7 +86,6 @@ I specialize in combining **software + infrastructure + electronics** to build r
 
 * OWASP Top 10 concepts
 * API attack detection
-* Authentication security
 * Security monitoring dashboards
 * Threat detection automation
 
@@ -100,7 +98,7 @@ I specialize in combining **software + infrastructure + electronics** to build r
 </p>
 
 * Neural Networks from scratch
-* ML anomaly detection systems
+* ML anomaly detection
 * Deep learning fundamentals
 * GenAI architecture (RAG + agents)
 
@@ -109,7 +107,7 @@ I specialize in combining **software + infrastructure + electronics** to build r
 # 🧬 Neural Network Visualization
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -132,7 +130,7 @@ Also working with:
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perera1325&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perera1325&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -140,7 +138,7 @@ Also working with:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Perera1325&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Perera1325&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -148,8 +146,8 @@ Also working with:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 </p>
 
 ---
@@ -157,7 +155,7 @@ Also working with:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Perera1325&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Perera1325&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -180,15 +178,15 @@ I aim to contribute to **WSO2** in areas of:
 * Integration Systems
 * Cloud Native Middleware
 * Distributed Architectures
-* Intelligent Automation Systems
+* Intelligent Automation
 
 ---
 
 # 🌍 Open Source Journey
 
 * Active contributor to open source projects
-* Learning through real production systems
-* Continuous daily GitHub improvement
+* Learning through production-style systems
+* Continuous GitHub improvement
 
 ---
 
