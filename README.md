@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vinod Perera</h1>
 
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 <h3 align="center">
 System Engineer ✈️ | Backend & API Developer | Electrical & Electronics Engineer | AI • Cyber Security • DevOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=System+Engineer+in+Aviation+✈️;WSO2+Technology+Enthusiast;Backend+%26+API+Developer;Electrical+%26+Electronics+Engineer;Cloud+%26+DevOps+Engineering;Cyber+Security+%7C+SOC+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Neural+Networks;GenAI+Architecture+%7C+LLMs+%7C+AI+Agents;Open+Source+Contributor+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=900&lines=System+Engineer+at+Bandaranaike+International+Airport+✈️;Open+Source+Enthusiast+🔥;WSO2+Products+Enthusiast+🚀;Backend+%26+Integration+Developer;AI+%7C+Cyber+Security+%7C+DevOps;Building+Scalable+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=WSO2%20Engineer%20Journey&fontSize=32&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=170&section=header&text=Engineering%20Systems%20%7C%20Integration%20%7C%20Innovation&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
