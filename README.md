@@ -33,7 +33,7 @@
 - ☁️ Exploring **AWS, Azure, Kubernetes & DevOps Automation**
 - 🔐 Interested in **Cybersecurity, Networking & Secure Architectures**
 - ❤️ Open Source Enthusiast
-- 🎯 Career Goal: **Integration Engineer / Cloud Architect / WSO2 Specialist**
+- 🎯 Career Goal: **Integration Engineer / Cloud Architect**
 
 ---
 
