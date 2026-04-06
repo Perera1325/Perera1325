@@ -9,7 +9,7 @@
 <h3 align="center">Dual Degree Undergraduate: CS & EEE | Integration Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=WSO2+Integration+Engineer;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+Microservices;AI+%7C+Cybersecurity+%7C+Automation;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Integration+Architect;Cloud+%7C+DevOps+%7C+Microservices;AI+%7C+Cybersecurity+%7C+Automation;Open+Source+Contributor" />
 </p>
 
 ---
@@ -18,10 +18,10 @@
 
 > "Architecting the future through Integration, Artificial Intelligence, and Electrical Engineering Synergy."
 
-- 🚀 **Goal**: Finalizing my internship application for **WSO2** as an **Integration Engineer**.
-- 🔭 **Current**: Deep-diving into **WSO2 API Manager**, **Micro Integrator**, and **Choreo**.
+- 🎓 **Computer Science**: Undergraduate at **SLIIT**.
+- ⚡ **Engineering**: 3rd Year Electrical & Electronic Engineering Undergraduate at **SLTTC**.
 - 🧠 **Research**: AI-Driven Integration (SentinelAI) — Bridging the gap between raw data and enterprise decisions.
-- ⚡ **Engineering**: 3rd Year Electrical & Electronic Engineering Undergraduate (SLIIT/Nebula).
+- 🔭 **Current**: Deep-diving into **API Management**, **Microservices**, and **Cloud Native Architectures**.
 
 ---
 
