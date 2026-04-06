@@ -1,4 +1,4 @@
-# 👑 Vinod Perera | Perera1325 (Professional Profile)
+# Vinod Perera
 
 <!-- ================= 3D HEADER ================= -->
 <p align="center">
