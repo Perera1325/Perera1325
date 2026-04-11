@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinod Perera</h1>
-<h3 align="center">Senior Open Source Contributor @WSO2 | System Engineer @BIA</h3>
+<h3 align="center">Open Source Contributor| System Engineer Trainee @BIA</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Open+Source+Contributor;Cloud+Native+Architect;Kubernetes+%26+DevOps+Engineer;Enterprise+Java+Developer;WSO2+Expert" />
