@@ -1,74 +1,70 @@
 # Vinod Perera
 
 <p align="center">
-  <img src="portfolio_banner.png" width="100%" alt="Vinod Perera Portfolio Banner" />
+  <img src="synergy_banner.png" height="250" alt="Vinod Perera Synergy Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinod Perera</h1>
-<h3 align="center">Senior Open Source Contributor @WSO2 | System Engineer @BIA</h3>
+<h3 align="center">Software & Hardware Synergy Architect | EEE Undergraduate | Open Source Contributor</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Open+Source+Contributor;Cloud+Native+Architect;Kubernetes+%26+DevOps+Engineer;Enterprise+Java+Developer;WSO2+Expert" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=EEE+Undergraduate;Software+%26+Hardware+Synergy+Architect;Senior+Open+Source+Contributor+%40WSO2;Java+%7C+API+Interactivity+%7C+IoT;Cloud+Native+%26+DevOps+Engineer" />
 </p>
+
+---
+
+# ⚡ Where Hardware Meets Software
+
+I specialize in bridge-building: connecting the physical precision of **Electrical Engineering** with the scale and resilience of **Enterprise Software**. My background as an **Electrical and Electronic Engineer Undergraduate** allows me to approach softare architecture with a system-modeling mindset, ensuring efficiency at every layer.
+
+- **System Synergy**: Leveraging control theory and low-level optimization to build high-performance distributed systems.
+- **Enterprise IoT**: Using **Java** and **REST APIs** to bridge the gap between industrial hardware sensors and cloud-native dashboards.
+- **Resilient Architectures**: Designing self-healing platforms inspired by physical relay logic and fault-tolerant electrical systems.
 
 ---
 
 # 🚀 Open Source Impact
 
 ### **WSO2 Ecosystem Contributions**
-I am an active contributor to the WSO2 ecosystem, focusing on both high-performance backend logic and enterprise UI/UX.
-
-*   **[WSO2 Synapse (Backend)](https://github.com/wso2/wso2-synapse/pull/2538)**: Resolved complex "Unified Expression" resolution bugs in the `ForEach` mediator, preventing critical runtime mapping failures.
-*   **[WSO2 API Manager (Frontend)](https://github.com/wso2/apim-apps/pull/1314)**: Engineered submission-aware validation for Governance configurations, significantly improving user feedback and reducing form submission errors.
-
----
-
-# 🏗️ Featured Engineering
-
-### **🚀 DevOps: Self-Healing Platform on AWS EKS**
-*Autonomous failure detection and zero-downtime recovery system.*
-
-- **Infrastructure**: AWS EKS, VPC, IAM, GitHub Actions.
-- **Resilience**: Kubernetes Liveness/Readiness probes, Horizontal Pod Autoscaling (HPA).
-- **Observability**: Prometheus & Grafana stack for real-time health monitoring.
-- **CI/CD**: Fully automated pipeline with 100% green deployment success.
+*   **[WSO2 Synapse (Backend)](https://github.com/wso2/wso2-synapse/pull/2538)**: Optimized "Unified Expression" resolution logic in core mediators.
+*   **[WSO2 API Manager (Frontend)](https://github.com/wso2/apim-apps/pull/1314)**: Engineered submission-aware validation for critical governance UIs.
 
 ---
 
 # 🛠️ Technical Arsenal
 
-### **Cloud & DevOps**
+### **Software & Cloud**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,githubactions,prometheus,grafana,linux,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,aws,docker,githubactions,react,nodejs" />
 </p>
 
-### **Programming & Frameworks**
+### **Hardware & Embedded**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,go,python,react,nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,c,cpp,py" />
 </p>
 
-### **Enterprise Integration**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ballerina,jenkins,azure,postman" />
-</p>
+> [!TIP]
+> **Domain Expertise**: Industrial Automation, PCB Design (KiCad), Real-time Operating Systems, and Multi-protocol API Interactivity.
 
 ---
 
-# 📈 Professional Pulse
+# 🏗️ Featured Projects
+
+### **🚀 DevOps: Self-Healing Platform on AWS EKS**
+*Autonomous failure detection and zero-downtime recovery.*
+- **Synergy**: Integrated hardware-inspired metrics (Liveness/Readiness) with cloud-native scalability.
+
+### **🛡️ SentinelAI: Autonomous API Security**
+*AI-driven security layer for Microservices architectures.*
+- **Synergy**: Bridging raw data streams with enterprise security decision logic.
+
+---
+
+# 📈 Professional Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-### **Contribution Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perera1325&theme=tokyonight" width="100%" />
-</p>
-
-### **Activity Flow**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perera1325&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -78,11 +74,10 @@ I am an active contributor to the WSO2 ecosystem, focusing on both high-performa
 <p align="center">
 <a href="https://linkedin.com/in/perera1325"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bamunuge2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Perera1325"><img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building systems that don't just work, but heal and scale."</i> 🚀
+  <i>"Engineering the intersection of the physical and digital worlds."</i> ⚡💻
 </p>
