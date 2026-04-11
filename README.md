@@ -15,7 +15,7 @@
 
 # ⚡ Where Hardware Meets Software
 
-I specialize in bridge-building: connecting the physical precision of **Electrical Engineering** with the scale and resilience of **Enterprise Software**. My background as an **Electrical and Electronic Engineer Undergraduate** allows me to approach softare architecture with a system-modeling mindset, ensuring efficiency at every layer.
+I specialize in bridge-building: connecting the physical precision of **Electrical Engineering** with the scale and resilience of **Enterprise Software**. My background as an **Electrical and Electronic Engineer Undergraduate** allows me to approach software architecture with a system-modeling mindset, ensuring efficiency at every layer.
 
 - **System Synergy**: Leveraging control theory and low-level optimization to build high-performance distributed systems.
 - **Enterprise IoT**: Using **Java** and **REST APIs** to bridge the gap between industrial hardware sensors and cloud-native dashboards.
