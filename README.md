@@ -1,7 +1,7 @@
 # Vinod Perera
 
 <p align="center">
-  <img src="synergy_banner.png" height="250" alt="Vinod Perera Synergy Banner" />
+  <img src="synergy_banner_wide.png" width="100%" alt="Vinod Perera Synergy Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinod Perera</h1>
