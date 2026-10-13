@@ -2,9 +2,9 @@
 
 <img src="assets/header.svg" alt="Vinod Ravindu Perera — Site Reliability and Electrical & Electronic Engineering" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-perera-a2136131a/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bamunuge2002@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bamunuge2002)
 ![Colombo](https://img.shields.io/badge/Colombo-Sri%20Lanka-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![IEEE PES](https://img.shields.io/badge/IEEE%20PES-Secretary-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
