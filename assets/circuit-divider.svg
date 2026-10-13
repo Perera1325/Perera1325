@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="Animated circuit trace with a heartbeat pulse">
+  <defs>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="0.85" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes dash{to{stroke-dashoffset:-240}}
+      @keyframes beat{0%,100%{opacity:.5}50%{opacity:1}}
+      .flow{stroke-dasharray:40 200;animation:dash 3s linear infinite}
+      .node{animation:beat 2s ease-in-out infinite}
+    </style>
+  </defs>
+  <!-- static trace: straight line with an ECG-style spike and PCB corners -->
+  <path id="p" d="M0 40 H300 L320 40 L332 18 L346 62 L358 40 H430 L446 40 L452 28 L460 40 H760 L776 40 L788 12 L804 68 L816 40 H1200"
+        fill="none" stroke="url(#trace)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity=".45"/>
+  <!-- moving energy pulses -->
+  <path d="M0 40 H300 L320 40 L332 18 L346 62 L358 40 H430 L446 40 L452 28 L460 40 H760 L776 40 L788 12 L804 68 L816 40 H1200"
+        fill="none" stroke="#38bdf8" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" class="flow"/>
+  <path d="M0 40 H300 L320 40 L332 18 L346 62 L358 40 H430 L446 40 L452 28 L460 40 H760 L776 40 L788 12 L804 68 L816 40 H1200"
+        fill="none" stroke="#f472b6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" class="flow" style="animation-delay:-1.5s"/>
+  <!-- solder pads -->
+  <g fill="#0b1233" stroke="#a78bfa" stroke-width="2">
+    <circle class="node" cx="300" cy="40" r="5"/>
+    <circle class="node" style="animation-delay:.5s" cx="460" cy="40" r="5"/>
+    <circle class="node" style="animation-delay:1s" cx="760" cy="40" r="5"/>
+    <circle class="node" style="animation-delay:1.5s" cx="1000" cy="40" r="5"/>
+  </g>
+</svg>

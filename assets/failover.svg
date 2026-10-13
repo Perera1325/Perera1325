@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+  <title id="t">Multi-cluster Kubernetes failover</title>
+  <desc id="d">Animated diagram: IoT devices send telemetry through a global load balancer to Cluster A. Cluster A fails, health checks detect it, and traffic fails over to Cluster B, then recovers.</desc>
+  <defs>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code',Consolas,monospace}
+      .sans{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+      @keyframes flow{to{stroke-dashoffset:-48}}
+      .wire{fill:none;stroke-width:3;stroke-dasharray:8 8;stroke-linecap:round;animation:flow 1s linear infinite}
+      /* 12s cycle: 0-40% A serves, 40-48% A down + detect, 48-92% B serves, 92-100% recovery */
+      @keyframes toA{0%{opacity:1}40%{opacity:1}42%{opacity:0}92%{opacity:0}95%{opacity:1}100%{opacity:1}}
+      @keyframes toB{0%{opacity:0}46%{opacity:0}50%{opacity:1}90%{opacity:1}93%{opacity:0}100%{opacity:0}}
+      @keyframes aBox{0%{stroke:#34d399;fill:#052e22}40%{stroke:#34d399;fill:#052e22}43%{stroke:#f87171;fill:#3a0d14}90%{stroke:#f87171;fill:#3a0d14}94%{stroke:#34d399;fill:#052e22}100%{stroke:#34d399;fill:#052e22}}
+      @keyframes bBox{0%{stroke:#64748b;fill:#0f172a}46%{stroke:#64748b;fill:#0f172a}50%{stroke:#34d399;fill:#052e22}90%{stroke:#34d399;fill:#052e22}94%{stroke:#64748b;fill:#0f172a}100%{stroke:#64748b;fill:#0f172a}}
+      @keyframes sA{0%,40%{opacity:1}42%,92%{opacity:0}95%,100%{opacity:1}}
+      @keyframes sAdown{0%,40%{opacity:0}43%,90%{opacity:1}94%,100%{opacity:0}}
+      @keyframes sBactive{0%,46%{opacity:0}50%,90%{opacity:1}94%,100%{opacity:0}}
+      @keyframes sBstandby{0%,46%{opacity:1}50%,90%{opacity:0}94%,100%{opacity:1}}
+      @keyframes detect{0%,41%{opacity:0}43%,49%{opacity:1}51%,100%{opacity:0}}
+      @keyframes bolt{0%,40%{opacity:0}41%{opacity:1}43%{opacity:0}44%{opacity:1}46%{opacity:0}100%{opacity:0}}
+      .toA{animation:flow 1s linear infinite, toA 12s linear infinite;stroke:#34d399}
+      .toB{opacity:0;animation:flow 1s linear infinite, toB 12s linear infinite;stroke:#38bdf8}
+      .boxA{animation:aBox 12s linear infinite}
+      .boxB{animation:bBox 12s linear infinite}
+      .sA{animation:sA 12s linear infinite}
+      .sAdown{opacity:0;animation:sAdown 12s linear infinite}
+      .sBact{opacity:0;animation:sBactive 12s linear infinite}
+      .sBstb{animation:sBstandby 12s linear infinite}
+      .detect{opacity:0;animation:detect 12s linear infinite}
+      .bolt{opacity:0;animation:bolt 12s linear infinite}
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050816"/><stop offset="1" stop-color="#0b1233"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="380" rx="18" fill="url(#bg)" stroke="#1e293b"/>
+  <text class="sans" x="40" y="46" font-size="22" font-weight="700" fill="#e2e8f0">Multi-cluster failover · IoT telemetry path</text>
+  <text class="mono" x="40" y="70" font-size="13" fill="#64748b">health-check driven · automatic · auto-recovering</text>
+
+  <!-- IoT devices -->
+  <g transform="translate(40 150)">
+    <rect width="170" height="110" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <text class="sans" x="85" y="34" font-size="15" font-weight="700" fill="#e2e8f0" text-anchor="middle">ESP32 fleet</text>
+    <text class="mono" x="85" y="56" font-size="12" fill="#94a3b8" text-anchor="middle">MQTT telemetry</text>
+    <g fill="#38bdf8">
+      <circle cx="45" cy="84" r="6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="85" cy="84" r="6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" begin=".4s" repeatCount="indefinite"/></circle>
+      <circle cx="125" cy="84" r="6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" begin=".8s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- global LB -->
+  <g transform="translate(330 150)">
+    <rect width="190" height="110" rx="12" fill="#0f172a" stroke="#a78bfa" stroke-width="2"/>
+    <text class="sans" x="95" y="34" font-size="15" font-weight="700" fill="#e2e8f0" text-anchor="middle">Global LB / DNS</text>
+    <text class="mono" x="95" y="56" font-size="12" fill="#94a3b8" text-anchor="middle">health-check routing</text>
+    <g class="detect">
+      <rect x="22" y="72" width="146" height="26" rx="13" fill="#78350f" stroke="#fbbf24"/>
+      <text class="mono" x="95" y="90" font-size="12" fill="#fde68a" text-anchor="middle">probe failed → reroute</text>
+    </g>
+    <g class="sA"><text class="mono" x="95" y="90" font-size="12" fill="#34d399" text-anchor="middle">route → Cluster A</text></g>
+    <g class="sBact"><text class="mono" x="95" y="90" font-size="12" fill="#38bdf8" text-anchor="middle">route → Cluster B</text></g>
+  </g>
+
+  <!-- wires -->
+  <path d="M210 205 H330" class="wire" stroke="#38bdf8"/>
+  <path d="M520 190 C600 190 640 130 740 130" class="wire toA"/>
+  <path d="M520 220 C600 220 640 280 740 280" class="wire toB"/>
+
+  <!-- Cluster A -->
+  <g transform="translate(740 70)">
+    <rect class="boxA" width="420" height="120" rx="14" stroke-width="2.5"/>
+    <text class="sans" x="24" y="34" font-size="17" font-weight="700" fill="#e2e8f0">Cluster A · primary</text>
+    <text class="mono" x="24" y="56" font-size="12" fill="#94a3b8">ap-south · control plane + workers</text>
+    <g fill="#e2e8f0" opacity=".85">
+      <rect x="24" y="74" width="54" height="28" rx="6"/><rect x="88" y="74" width="54" height="28" rx="6"/>
+      <rect x="152" y="74" width="54" height="28" rx="6"/><rect x="216" y="74" width="54" height="28" rx="6"/>
+    </g>
+    <g class="sA"><circle cx="388" cy="30" r="8" fill="#34d399"/><text class="mono" x="372" y="34" font-size="12" fill="#34d399" text-anchor="end">SERVING</text></g>
+    <g class="sAdown"><circle cx="388" cy="30" r="8" fill="#f87171"/><text class="mono" x="372" y="34" font-size="12" fill="#f87171" text-anchor="end">DOWN</text></g>
+    <g class="bolt"><path d="M340 70 l-16 26 h14 l-8 22 l24 -32 h-15 l9 -16z" fill="#fbbf24"/></g>
+  </g>
+
+  <!-- Cluster B -->
+  <g transform="translate(740 220)">
+    <rect class="boxB" width="420" height="120" rx="14" stroke-width="2.5"/>
+    <text class="sans" x="24" y="34" font-size="17" font-weight="700" fill="#e2e8f0">Cluster B · standby</text>
+    <text class="mono" x="24" y="56" font-size="12" fill="#94a3b8">ap-southeast · warm replica</text>
+    <g fill="#e2e8f0" opacity=".85">
+      <rect x="24" y="74" width="54" height="28" rx="6"/><rect x="88" y="74" width="54" height="28" rx="6"/>
+      <rect x="152" y="74" width="54" height="28" rx="6"/><rect x="216" y="74" width="54" height="28" rx="6"/>
+    </g>
+    <g class="sBstb"><circle cx="388" cy="30" r="8" fill="#64748b"/><text class="mono" x="372" y="34" font-size="12" fill="#94a3b8" text-anchor="end">STANDBY</text></g>
+    <g class="sBact"><circle cx="388" cy="30" r="8" fill="#34d399"/><text class="mono" x="372" y="34" font-size="12" fill="#34d399" text-anchor="end">SERVING</text></g>
+  </g>
+
+  <text class="mono" x="40" y="330" font-size="12" fill="#64748b">Illustrative architecture of my final-year research focus · loops every 12 s</text>
+</svg>
