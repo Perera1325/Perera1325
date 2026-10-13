@@ -1,83 +1,117 @@
-# Vinod Perera
+<div align="center">
 
-<p align="center">
-  <img src="synergy_banner_wide.png" width="100%" alt="Vinod Perera Synergy Banner" />
-</p>
+# Vinod Ravindu Perera
 
-<h1 align="center">Hi 👋, I'm Vinod Perera</h1>
-<h3 align="center">Software & Hardware Synergy Architect | EEE Undergraduate | Open Source Contributor</h3>
+### DevOps · Site Reliability · Embedded Systems · Open Source
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=EEE+Undergraduate;Software+%26+Hardware+Synergy+Architect;Senior+Open+Source+Contributor+%40WSO2;Java+%7C+API+Interactivity+%7C+IoT;Cloud+Native+%26+DevOps+Engineer" />
-</p>
+*Building resilient infrastructure in the cloud, and reliable firmware on the metal.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR-MEDIUM)
+![Location](https://img.shields.io/badge/Colombo-Sri%20Lanka-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-# ⚡ Where Hardware Meets Software
-
-I specialize in bridge-building: connecting the physical precision of **Electrical Engineering** with the scale and resilience of **Enterprise Software**. My background as an **Electrical and Electronic Engineer Undergraduate** allows me to approach software architecture with a system-modeling mindset, ensuring efficiency at every layer.
-
-- **System Synergy**: Leveraging control theory and low-level optimization to build high-performance distributed systems.
-- **Enterprise IoT**: Using **Java** and **REST APIs** to bridge the gap between industrial hardware sensors and cloud-native dashboards.
-- **Resilient Architectures**: Designing self-healing platforms inspired by physical relay logic and fault-tolerant electrical systems.
+</div>
 
 ---
 
-# 🚀 Open Source Impact
+## 👋 About Me
 
-### **WSO2 Ecosystem Contributions**
-*   **[WSO2 Synapse (Backend)](https://github.com/wso2/wso2-synapse/pull/2538)**: Optimized "Unified Expression" resolution logic in core mediators.
-*   **[WSO2 API Manager (Frontend)](https://github.com/wso2/apim-apps/pull/1314)**: Engineered submission-aware validation for critical governance UIs.
+I'm a final-year dual-degree student (**BSc (Hons) Computer Science, SLIIT** and **Electrical & Electronic Engineering, SLTTC**) working where software reliability meets physical hardware. I like systems that fail gracefully, recover automatically, and can be explained on a single diagram.
 
----
-
-# 🛠️ Technical Arsenal
-
-### **Software & Cloud**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,kubernetes,aws,docker,githubactions,react,nodejs" />
-</p>
-
-### **Hardware & Embedded**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,c,cpp,py" />
-</p>
-
-> [!TIP]
-> **Domain Expertise**: Industrial Automation, PCB Design (KiCad), Real-time Operating Systems, and Multi-protocol API Interactivity.
+- ☸️ **Researching** multi-cluster Kubernetes failover and disaster recovery for IoT workloads
+- 🔌 **Building** ESP32-based IoT systems: occupancy-aware energy monitoring, water monitoring with ML leak alerts
+- 🤝 **Contributing** to open source, including merged pull requests in **WSO2 Synapse** and **WSO2 API Manager**
+- ⚡ **IEEE PES Secretary**, bridging power & energy engineering with modern software practice
+- ✈️ **Previously** System Engineer intern at Bandaranaike International Airport, where uptime is not optional
+- 🛡️ **Exploring** CI/CD and software supply-chain security through responsible-disclosure research
 
 ---
 
-# 🏗️ Featured Projects
+## 🧰 Tech Stack
 
-### **🚀 DevOps: Self-Healing Platform on AWS EKS**
-*Autonomous failure detection and zero-downtime recovery.*
-- **Synergy**: Integrated hardware-inspired metrics (Liveness/Readiness) with cloud-native scalability.
+### ☁️ DevOps & SRE
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### **🛡️ SentinelAI: Autonomous API Security**
-*AI-driven security layer for Microservices architectures.*
-- **Synergy**: Bridging raw data streams with enterprise security decision logic.
+### 🔌 Embedded & Electronics
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=flat-square&logo=blynk&logoColor=white)
+
+> Sensors · I²C / SPI / UART · ADC & signal conditioning · PCB basics · Power & energy systems · IoT telemetry
+
+### 💻 Languages & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# 📈 Professional Analytics
+## 🔭 Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight" width="48%" />
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| **Multi-Cluster K8s Failover** | Final-year research on disaster recovery and automated failover across Kubernetes clusters serving IoT workloads | Kubernetes · Prometheus · IoT |
+| **Occupancy-Aware IoT Energy Monitor** | ESP32 system that links room occupancy to energy consumption to cut waste | ESP32 · C++ · MQTT |
+| **ESP32 Water Monitor + ML Leak Alert** | Live Blynk dashboard with a machine-learning layer that flags abnormal flow | ESP32 · Blynk · Python |
+| **WSO2 Contributions** | Merged pull requests to WSO2 Synapse and WSO2 API Manager | Java · Open Source |
 
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/perera1325"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bamunuge2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+> 📌 *Pin your best 6 repositories on your profile so they appear right below this README.*
 
 ---
 
-<p align="center">
-  <i>"Engineering the intersection of the physical and digital worlds."</i> ⚡💻
-</p>
+## 🌍 Open Source
+
+- ✅ Merged PRs: **WSO2 Synapse**, **WSO2 API Manager**
+- 📚 100+ public repositories covering infrastructure, embedded projects, and coursework
+- 🎯 Interests: CI/CD pipelines, observability, supply-chain security, IoT firmware
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Perera1325&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perera1325&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Perera1325&theme=tokyonight&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Perera1325&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What I'm Looking For
+
+DevOps / SRE / Cloud / Platform internship and graduate roles, plus embedded and IoT engineering opportunities, where reliability, automation, and hardware meet.
+
+## 🤝 Let's Talk About
+
+Kubernetes reliability · Incident response & observability · IaC and CI/CD · ESP32 / IoT design · Open-source contribution
+
+---
+
+<div align="center">
+
+*"Hope is not a strategy. Reliability is engineered."*
+
+![Visitors](https://komarev.com/ghpvc/?username=Perera1325&style=flat-square&color=blue)
+
+</div>
